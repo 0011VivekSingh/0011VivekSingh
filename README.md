@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Vivek Kumar Singh
+** Fresher Software Engineer open to IT & Tech roles, with a strong preference for Java development.
+Eager to learn, adaptable, and ready to contribute across backend, full-stack, or other technical roles.**
+
+Email Me 👉 ✉️ **vivek738063@gmail.com** . 😊😊
+Resume    **https://drive.google.com/file/d/1JSWiPHw637XEBkP_mfZMtgjEN6rlThb1/view?usp=sharing** . 
+
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivek-kumar-singh-762775209/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivek738063@gmail.com) 
